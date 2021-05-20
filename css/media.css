@@ -1,0 +1,11 @@
+@media (max-width:767px){
+	.wrapper{
+        padding: 50px 10px;
+    }
+}
+
+@media (max-width:767px){
+	.slider {
+		padding: 0px 40px;
+	}
+}
